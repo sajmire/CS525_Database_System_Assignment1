@@ -46,7 +46,7 @@ It will close the specified file if the entered filename is valid.
 4. DestroyPageFile:
 It will destroy the file specified.
 
-5. ReadBlock:  
+5. ReadBlock:
 It will read the block/page specified by the user inside a file.
 
 6. GetBlockPosition: 
